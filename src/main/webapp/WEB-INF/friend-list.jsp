@@ -10,6 +10,12 @@
                 <a id="profile-full-name" href="/">Malavika</a>
                 <span>36 posts, 23 comments</span>
             </p>
+            <p>
+                <i class="fa fa-user-plus" aria-hidden="true"></i> Became friends with <br><a href="/">Manimegalai and 3 others...</a>
+            </p>
+            <p>
+                <i class="fa fa-user-plus" aria-hidden="true"></i> Became friends with <br><a href="/">Dimple and 3 others...</a>
+            </p>
         </div>
     </div>
     <ul>

@@ -37,6 +37,7 @@
                             <input type="text" name="user-login-id" placeholder="Email address or phone number" />
                             <input type="password" name="user-login-password" placeholder="Password" />
                             <button type="submit" id="btn-login">Login</button>
+                            <a href="/">Forgotten password?</a> <br>
                             <a href="./register.jsp">Signup for TalkTheTalk?</a>
                         </form>
                     </div>
