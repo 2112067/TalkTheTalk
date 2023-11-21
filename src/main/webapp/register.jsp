@@ -18,20 +18,6 @@
                     <div class="col-md-6">
                         <a href="./news-feed.jsp" id="logo-large">TalkTheTalk</a>
                     </div>
-                    <div class="col-md-6">
-                        <form action="/" method="post" class="login-form-top">
-                            <div class="login-form-input">
-                                <label>Email or phone</label>
-                                <input type="text" name="user-login-id" />
-                            </div>
-                            <div class="login-form-input">
-                                <label>Password</label>
-                                <input type="password" name="user-login-password" />
-                                <button type="button" id="btn-login">Login</button>
-                                <a href="/">Forgotten password?</a>
-                            </div>
-                        </form>
-                    </div>
                 </div>
             </div>
         </nav>

@@ -8,7 +8,6 @@
              src="data:image/png;base64,${friend.avatar}">
         <span>
             <a href="#">${friend.lastName} ${friend.firstName}</a> 
-            <span style="display:block;">123 mutual friends </span>
             <button id="${friend.id}"><i class="fa fa-user-plus" aria-hidden="true"></i> 
                 Add friend
             </button>

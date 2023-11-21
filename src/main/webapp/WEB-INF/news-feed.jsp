@@ -131,20 +131,9 @@
                 </div>
                 <div class="col-md-3 no-pad">
                     <div class="middle-right-section">
-                        <div class="middle-right-section-header">
-                            <span>
-                                <i class="fa fa-gift" aria-hidden="true"></i>
-                                <a href="#">3 event invitations today</a>
-                            </span>
-                            <span>
-                                <i class="fa fa-calendar" aria-hidden="true"></i>
-                                <a href="">Johny Johny</a>'s birthday is today
-                            </span>
-                        </div>
                         <div class="middle-right-section-body">
                             <div class="middle-right-section-body-title">
                                 <label>PEOPLE YOU MAY KNOW</label>
-                                <a href="#">See All</a>
                             </div>
                             <div id="suggested-friend-list"></div>  
 
